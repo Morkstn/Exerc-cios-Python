@@ -1,4 +1,5 @@
 #EXERCÍCIO 2
+
 print ("SEJA BEM VINDO")
 seg = int(input("Digite o número de votos dos alunos que preferem na segunda-feira para a realização das lives: "))
 ter = int(input("Digite o número de votos dos alunos que preferem na terça-feira para a realização das lives: "))

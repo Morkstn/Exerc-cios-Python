@@ -1,4 +1,5 @@
 #EXERCÍCIO NÚMERO 1
+
 n1 = float(input("O tipo de assinatura é Basic (30%)? Digite 30 se for sim 0 para não. "))
 if n1 == n1:
     if n1 == 30:

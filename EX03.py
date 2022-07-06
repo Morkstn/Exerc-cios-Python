@@ -1,4 +1,5 @@
 #EXECÍCIO NÚMERO 3
+
 imp = 0
 par = 0
 cont_imp = 0

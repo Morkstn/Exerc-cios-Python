@@ -1,4 +1,5 @@
 #EXERCÍCIO NÚMERO 4
+
 print("Olá seja bem vindo!")
 nome = str(input("Digite seu nome: "))
 print("Prazer {}".format(nome))
